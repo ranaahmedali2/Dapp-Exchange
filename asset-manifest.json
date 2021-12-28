@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DApp-Exchange/static/css/main.94086239.chunk.css",
+    "main.js": "/DApp-Exchange/static/js/main.cf0e1b66.chunk.js",
+    "main.js.map": "/DApp-Exchange/static/js/main.cf0e1b66.chunk.js.map",
+    "runtime-main.js": "/DApp-Exchange/static/js/runtime-main.7bfc99e7.js",
+    "runtime-main.js.map": "/DApp-Exchange/static/js/runtime-main.7bfc99e7.js.map",
+    "static/css/2.f2635a7b.chunk.css": "/DApp-Exchange/static/css/2.f2635a7b.chunk.css",
+    "static/js/2.9835f860.chunk.js": "/DApp-Exchange/static/js/2.9835f860.chunk.js",
+    "static/js/2.9835f860.chunk.js.map": "/DApp-Exchange/static/js/2.9835f860.chunk.js.map",
+    "index.html": "/DApp-Exchange/index.html",
+    "precache-manifest.f227510b832a0b767a2f2f4e97b29eb0.js": "/DApp-Exchange/precache-manifest.f227510b832a0b767a2f2f4e97b29eb0.js",
+    "service-worker.js": "/DApp-Exchange/service-worker.js",
+    "static/css/2.f2635a7b.chunk.css.map": "/DApp-Exchange/static/css/2.f2635a7b.chunk.css.map",
+    "static/css/main.94086239.chunk.css.map": "/DApp-Exchange/static/css/main.94086239.chunk.css.map",
+    "static/js/2.9835f860.chunk.js.LICENSE.txt": "/DApp-Exchange/static/js/2.9835f860.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bfc99e7.js",
+    "static/css/2.f2635a7b.chunk.css",
+    "static/js/2.9835f860.chunk.js",
+    "static/css/main.94086239.chunk.css",
+    "static/js/main.cf0e1b66.chunk.js"
+  ]
+}
