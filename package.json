@@ -39,7 +39,7 @@
     "truffle-hdwallet-provider-privkey": "0.3.0",
     "web3": "1.2.6"
   },
-  "homepage": "http://ranaahmedali2.github.io/DApp-Exchange.git",
+  "homepage": "http://ranaahmedali2.github.io/DApp-Exchange",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
